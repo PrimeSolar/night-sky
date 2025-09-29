@@ -1,21 +1,20 @@
 # The Night Sky Website
 
-## Table of Contents
+&nbsp;&nbsp;The Night Sky is a visually captivating project that showcases animated stars and clouds, creating a serene and immersive experience. This project aims to provide users with a relaxing visual display that can be used for various applications, such as websites and presentations.
 
 - [The Night Sky Website](#the-night-sky-website)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
+  - [Interface](#interface)
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Support My Work ☕](#support-my-work-)
   - [Contact Me](#contact-me)
 
-<a name="overview"></a>
+<a name="interface"></a>
 
-## Overview
+## Interface
 
-&nbsp;&nbsp;The Night Sky is a visually captivating project that showcases animated stars and clouds, creating a serene and immersive experience. This project aims to provide users with a relaxing visual display that can be used for various applications, such as websites and presentations.
+&nbsp;&nbsp;The interface is designed to be user-friendly and visually appealing.
 
 <a name="features"></a>
 
