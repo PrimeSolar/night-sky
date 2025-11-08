@@ -15,23 +15,23 @@
 
  p {
   top: 48%;
-  width: 100%;
+  width: 100%; /* Set the width of the element. */
   text-align: center;
-  color: lightskyblue;
+  color: lightskyblue; /* Set the color for the text of the element. */
   position: absolute;
   font-size: 50px;
   z-index: 10001;
 }
 
 * {
-  margin: 0;
+  margin: 0; /* Set the margin of the element. */
   padding: 0;
   box-sizing: border-box;
 }
 
 .scene {
   position: relative;
-  width: 100%;
+  width: 100%; /* Set the width of the element. */
   height: 100%;
   background: lightskyblue;
   background-attachment: fixed;
