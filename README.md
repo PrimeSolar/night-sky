@@ -48,7 +48,7 @@ Every cup of coffee you buy not only fuels my passion but also allows me to dedi
 
 **Click the image to support my work:**
 
-<a href="https://coff.ee/cocacola">
+<a href="https://coff.ee/cocacola" rel="noopener noreferrer">
   <img src="assets/coffee.jpg" width="370" height="auto" alt="Buy Me a Coffee"/>
 </a>
 
